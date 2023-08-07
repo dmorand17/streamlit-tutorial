@@ -24,4 +24,4 @@ pip install -r requirements.txt
 
 ## Useful commands
 
-- `streamlit run streamlit-tutorial` Run the streamlit application
+- `streamlit run streamlit-tutorial/streamlit.py` Run the streamlit application
